@@ -1,0 +1,44 @@
+
+body{
+  /* background-image: url(../img/877199.jpg); */
+  background-color: aqua;
+ 
+}
+
+/* #contAinEr{
+  background-color: aqua;
+  height: 685px;
+  margin-top: -31px;
+} */
+
+.jumbotron-fluid{
+  background-image: url(../img/240_F_202561940_ZeYmuy1AyAoj7EdWAD6vpYQHP9tmO0gn.jpg);
+
+}
+
+#title{
+  color: aliceblue;
+  margin-top: 40px;
+  background-color: rgba(28, 34, 20, 0.664);
+  /* background-image: url(../img/giphy.gif); */
+  margin-left: 370px;
+  margin-right: 370px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Burgers Available To Eat! */
+dl, ol, ul {
+  list-style-type: none;
+}
+
+#eaten{
+  margin-left: 85px;
+}
+
+#addBurger{
+  text-align: center;
+}
+
+#submit{
+  background-image: url(../img/anigif_enhanced-12105-1432845222-10.gif);
+}

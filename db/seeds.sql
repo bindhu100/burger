@@ -1,0 +1,1 @@
+insert into burgers (burger_name,devoured) values("Cheese Burger", 0), ("Beef Burger", 0)
