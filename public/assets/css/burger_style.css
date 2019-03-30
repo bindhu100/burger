@@ -30,15 +30,44 @@ body{
 dl, ol, ul {
   list-style-type: none;
 }
-
+/* button */
+#devoButton
+{
+  background-color: #7a9d05;
+    border-color: #83166f;
+}
+/* devour it */
+li {
+  list-style-type: none;
+}
+.dovouredButton {
+  margin-bottom: 10px;
+}
+/* Burgers That Have Been Eaten! */
 #eaten{
   margin-left: 85px;
 }
-
+/* data for Burgers That Have Been Eaten! */
+#beenEaten
+{
+  margin-left: 120px;
+}
 #addBurger{
   text-align: center;
 }
 
 #submit{
   background-image: url(../img/anigif_enhanced-12105-1432845222-10.gif);
+}
+
+.card-text{
+  background-image: url("../img/giphy\ 2.gif");
+  height: 300px;
+  width: 6000px;
+  margin-bottom: 0px;
+  /* padding-right: 6000px */
+}
+/* footer animation */
+.card-body {
+padding: 0px;
 }

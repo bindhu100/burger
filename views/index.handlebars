@@ -38,7 +38,7 @@
 			        {{this.burger_name}}
 
 			        
-			          <button class="btn-primary dovouredButton" value="{{this.id}}">Devour It!</button>
+			          <button id="devoButton"class="btn-primary dovouredButton" value="{{this.id}}">Devour It!</button>
 								<br>
 			       
 
@@ -49,13 +49,15 @@
 
 	    </div>
 
+
+
 	    <div class="col-sm-6">
 				<br>
 			<h2 id="eaten">Burgers That Have Been Eaten!</h2>
 			
 			  {{#each burgers}}
 			    {{#if this.devoured}}
-			      <li>
+			      <li id="beenEaten">
 			      	{{this.id}}
 			        {{this.burger_name}}
 
@@ -86,6 +88,24 @@
 	    </div>
 	
   	</div>
+		<br>
 	<!-- end .row -->
 
 </div>
+
+			{{!--  --}}
+<div class="card-group position-fixed">
+  <div class="card">
+    {{!-- <img class="card-img-top" src=".../100px180/" alt="Card image cap"> --}}
+    <div class="card-body">
+      {{!-- <h5 class="card-title">Card title</h5> --}}
+      <p class="card-text"></p>
+    </div>
+    {{!-- <div class="card-footer">
+      <small class="text-muted">Last updated 3 mins ago</small>
+    </div> --}}
+  </div>
+	</div>
+
+			{{!--  --}}
+
