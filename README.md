@@ -9,6 +9,4 @@ All the recommended files and directories from the steps above should look like 
 
 
 
-
-
-![MVC](public/assets/css/MVC.PNG)
+![GitHub Logo](public/assets/img/MVC.PNG)
