@@ -4,6 +4,10 @@
 <h3>	:mag_right:Overview</h3>
 In this assignment, create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). use Node and MySQL to query and route data in the app, and Handlebars to generate HTML.
 
+
+![GitHub Logo](public/assets/img/Eat-Da-Burger.gif)
+
+
 <h3>:bar_chart:Directory Structure (MVC)</h3>
 All the recommended files and directories from the steps above should look like the following structure:
 
@@ -30,6 +34,8 @@ All the recommended files and directories from the steps above should look like 
 
 ![GitHub Logo](public/assets/img/devourIt.jpg)
 
+
+<h3></h3>
 <li>App will store every burger in a database, whether devoured or not.</li>
 
 ![GitHub Logo](public/assets/img/database.jpg)
