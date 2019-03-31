@@ -9,7 +9,10 @@ All the recommended files and directories from the steps above should look like 
 
 
 <h3></h3>
+
+
 ![GitHub Logo](public/assets/img/MVC.PNG)
+
 
 <h3>:man_cook:Usage of Eat-Da-Burger </h3>
 
