@@ -22,6 +22,17 @@ All the recommended files and directories from the steps above should look like 
 ![GitHub Logo](public/assets/img/addBurger.jpg)
 
 <li>Whenever a user submits a burger's name, your app will display the burger on the left side of the page, waiting to be devoured.</li>
+
+![GitHub Logo](public/assets/img/submit.jpg)
+
+
 <li>Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.</li>
+
+![GitHub Logo](public/assets/img/devourIt.jpg)
+
 <li>App will store every burger in a database, whether devoured or not.</li>
+
+![GitHub Logo](public/assets/img/database.jpg)
+
+
 </ul>
